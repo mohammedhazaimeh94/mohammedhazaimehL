@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">مدار لانشر</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_apps">التطبيقات</string>
+    <string name="nav_boost">التسريع</string>
+    <string name="nav_wallpapers">الخلفيات</string>
+    <string name="nav_updates">المتجر</string>
+
+    <string name="home_welcome_tag">مشغّل الشاشات الذكي</string>
+    <string name="home_pinned_title">التطبيقات السريعة</string>
+    <string name="home_edit_screen">إعدادات الشاشة</string>
+    <string name="home_quick_boost">تسريع فوري</string>
+    <string name="home_boosting">جاري التسريع…</string>
+    <string name="home_ram_label">الذاكرة العشوائية</string>
+    <string name="home_storage_label">التخزين</string>
+    <string name="home_score_label">مؤشر الاستجابة</string>
+    <string name="home_no_pinned">ثبّت تطبيقاتك المفضلة من مكتبة التطبيقات للوصول السريع</string>
+    <string name="home_open_apps">فتح مكتبة التطبيقات</string>
+
+    <string name="apps_title">مكتبة التطبيقات المثبتة</string>
+    <string name="apps_search_hint">ابحث عن تطبيق بالاسم أو الحزمة…</string>
+    <string name="apps_empty_search">لا توجد تطبيقات مطابقة للبحث</string>
+    <string name="apps_sort_name">الاسم</string>
+    <string name="apps_sort_date">الأحدث تثبيتاً</string>
+    <string name="apps_sort_category">الفئة</string>
+    <string name="apps_pin">تثبيت بالرئيسية</string>
+    <string name="apps_unpin">إزالة التثبيت</string>
+    <string name="apps_info">معلومات التطبيق</string>
+    <string name="apps_count_format">%1$d تطبيق</string>
+
+    <string name="boost_title">محرك التسريع والأداء</string>
+    <string name="boost_subtitle">تحليل فوري للموارد وتحرير الذاكرة لتحسين استجابة الشاشة</string>
+    <string name="boost_action_now">تسريع النظام الآن</string>
+    <string name="boost_action_running">جاري تحليل وتحرير الموارد…</string>
+    <string name="boost_turbo_title">وضع الأداء الفائق للشاشات</string>
+    <string name="boost_turbo_desc">تقليل المؤثرات الثقيلة لتسريع التنقل والاستجابة على الشاشات الصينية</string>
+    <string name="boost_storage_settings">إدارة التخزين بالنظام</string>
+    <string name="boost_last_result">آخر عملية تسريع</string>
+
+    <string name="wallpapers_title">مكتبة الخلفيات الديناميكية</string>
+    <string name="wallpapers_subtitle">صور عالية الدقة من مصادر مفتوحة وموثوقة (Wikimedia Commons)</string>
+    <string name="wallpapers_mode_label">نظام تحديث الخلفية</string>
+    <string name="wallpapers_next_now">تغيير الآن</string>
+    <string name="wallpapers_refresh_online">تحديث القائمة</string>
+    <string name="wallpapers_pick_device">اختيار صورة ثابتة</string>
+    <string name="wallpapers_set_system">تعيين كخلفية للنظام</string>
+    <string name="wallpapers_dim_label">تعتيم الخلفية لوضوح الأيقونات</string>
+
+    <string name="updates_title">المكتبة والتحديثات المفتوحة</string>
+    <string name="updates_subtitle">مصادر مفتوحة وموثوقة عبر F-Droid بدون تسجيل دخول</string>
+    <string name="updates_tab_check">التحديثات المتاحة</string>
+    <string name="updates_tab_store">مكتبة التحميل</string>
+    <string name="updates_scan_now">فحص التحديثات</string>
+    <string name="updates_search_hint">ابحث في مكتبة F-Droid المفتوحة…</string>
+    <string name="updates_no_login_badge">بدون تسجيل دخول • مفتوح المصدر</string>
+    <string name="updates_open_source_btn">فتح في F-Droid</string>
+    <string name="updates_update_btn">تحديث موثوق</string>
+
+    <string name="screen_settings_title">التوافق مع جميع الشاشات</string>
+    <string name="screen_set_default_launcher">تعيين مدار لانشر كمشغل افتراضي</string>
+    <string name="screen_profile_label">نمط عرض الشاشة</string>
+    <string name="screen_columns_label">عدد الأعمدة في الشبكة</string>
+    <string name="screen_icon_scale_label">حجم الأيقونات</string>
+    <string name="close">إغلاق</string>
+</resources>
